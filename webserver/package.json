@@ -1,0 +1,22 @@
+{
+  "name": "week3",
+  "version": "1.0.0",
+  "description": "week 3 assignment",
+  "main": "apps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C2sea206/IT122.git"
+  },
+  "keywords": [
+    "week3"
+  ],
+  "author": "Alejandro bravo-vasquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/C2sea206/IT122/issues"
+  },
+  "homepage": "https://github.com/C2sea206/IT122#readme"
+}
