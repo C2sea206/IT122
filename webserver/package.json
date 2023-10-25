@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/C2sea206/IT122/issues"
   },
-  "homepage": "https://github.com/C2sea206/IT122#readme"
+  "homepage": "https://github.com/C2sea206/IT122#readme",
+  "devDependencies": {
+    "eslint": "^8.52.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.0"
+  }
 }
